@@ -1,0 +1,22 @@
+{
+  "name": "unit-testing-javascript-activity",
+  "version": "1.0.0",
+  "description": "## Part 1 Using BDD, implement the logic for a class `ATM`. Find the class diagram for `ATM` below:",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-differently/Unit-Testing-JavaScript-Activity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-differently/Unit-Testing-JavaScript-Activity/issues"
+  },
+  "homepage": "https://github.com/code-differently/Unit-Testing-JavaScript-Activity#readme",
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}

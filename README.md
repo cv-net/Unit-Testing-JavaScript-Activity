@@ -1,5 +1,21 @@
 # Unit Testing JavaScript Activity
 
+## Setup
+
+In the root directory, run the following to:
+
+Install all the required packages
+```bash
+npm install -g mocha 
+npm install --save-dev chai
+npm install
+```
+
+Run the test cases
+```bash
+npm test
+```
+
 ## Part 1
 Using BDD, implement the logic for a class `ATM`. Find the class diagram for `ATM` below:
 
