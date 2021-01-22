@@ -4,7 +4,8 @@
   "description": "## Part 1 Using BDD, implement the logic for a class `ATM`. Find the class diagram for `ATM` below:",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "test:watch:ATM": "mocha --watch ./test/ATM.test.js ./src/ATM.js"
   },
   "repository": {
     "type": "git",
